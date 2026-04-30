@@ -1,3 +1,6 @@
+# Security.txt for daylorex.cl
+# Report vulnerabilities responsibly
+
 Contact: mailto:ariel.conejeros.munoz@hotmail.com
 Expires: 2026-05-31T11:59:00.000Z
 Encryption: https://daylorex.cl/pgp-key.txt
