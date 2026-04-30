@@ -1,0 +1,29 @@
+# Security Policy - daylorex.cl
+
+## Alcance
+Este sitio es un dominio personal utilizado en un entorno privado entre conocidos. 
+Aun así, se agradece la notificación responsable de vulnerabilidades.
+
+## Reporte de vulnerabilidades
+Por favor reportar cualquier hallazgo a:
+ariel.conejeros.munoz@hotmail.com
+
+Si es posible, cifrar el mensaje utilizando la clave PGP disponible en:
+https://daylorex.cl/pgp-key.txt
+
+## Qué reportar
+- Fallas de seguridad
+- Exposición de datos
+- Configuraciones incorrectas
+- Problemas de autenticación/autorización
+
+## Qué evitar
+- Ataques de denegación de servicio (DoS)
+- Fuerza bruta agresiva
+- Pruebas que afecten la disponibilidad del servicio
+
+## Tiempos de respuesta
+No hay SLA formal, pero se intentará responder en un plazo razonable.
+
+## Reconocimiento
+Si el reporte es válido, se puede dar reconocimiento informal (si el reportante lo desea).
